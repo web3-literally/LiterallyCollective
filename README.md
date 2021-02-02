@@ -62,7 +62,8 @@ ECOMMERCE | WORDPRESS | HTML5 GAME | MOBILE DEVELOPMENT | CRYPTOCURRENCY
 ## 𝓦𝓱𝓪𝓽 𝓦𝓮 𝓒𝓪𝓷 𝓓𝓸
 
 <div align="center">
-  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
 ### ℬ𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝒶𝓃 ℰ𝒞 𝓈𝒾𝓉𝑒 𝓉𝒽𝒶𝓉 𝒾𝓈 𝓊𝓈𝑒𝒻𝓊𝓁 𝒻𝑜𝓇 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈
 𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
 
