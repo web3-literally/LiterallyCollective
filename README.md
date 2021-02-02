@@ -8,7 +8,7 @@
 [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/Thismypc/community)
 </h1>
 
-## Portfolio
+## Featured Projects
 
 ECOMMERCE | WORDPRESS | HTML5 GAME | MOBILE DEVELOPMENT | CRYPTOCURRENCY
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
