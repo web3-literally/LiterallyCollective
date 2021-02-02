@@ -58,7 +58,7 @@ ECOMMERCE | WORDPRESS | HTML5 GAME | MOBILE DEVELOPMENT | CRYPTOCURRENCY
 ### ℬ𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝒶𝓃 ℰ𝒞 𝓈𝒾𝓉𝑒 𝓉𝒽𝒶𝓉 𝒾𝓈 𝓊𝓈𝑒𝒻𝓊𝓁 𝒻𝑜𝓇 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈
 It is possible to create an EC site and its application. Compatible with each platform.
 
-### 𝒲ℰℬ 𝓅𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃 𝒾𝓈 𝓈𝓅𝑒𝑒𝒹𝓎 𝒶𝓃𝒹 𝒾𝓃𝑒𝓍𝓅𝑒𝓃𝓈𝒾𝓋𝑒
+### 𝒲ℰℬ 𝓅𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃 𝒾𝓈 𝓈𝓅𝑒𝑒𝒹𝓎
 We can also develop HP, LP, and WEB services.
 
 ### 𝒫𝒞 𝒶𝓃𝒹 𝒮𝒫 𝒶𝓅𝓅𝓁𝒾𝒸𝒶𝓉𝒾𝑜𝓃𝓈 𝒸𝒶𝓃 𝒶𝓁𝓈𝑜 𝒷𝑒 𝒸𝓇𝑒𝒶𝓉𝑒𝒹
