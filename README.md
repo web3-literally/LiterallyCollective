@@ -52,3 +52,18 @@ ECOMMERCE | WORDPRESS | HTML5 GAME | MOBILE DEVELOPMENT | CRYPTOCURRENCY
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
   </table>
+  
+## 𝓦𝓱𝓪𝓽 𝓦𝓮 𝓒𝓪𝓷 𝓓𝓸
+
+Building an EC site that is useful for business
+It is possible to create an EC site and its application. Compatible with each platform.
+
+WEB production is speedy and inexpensive.
+We can also develop HP, LP, and WEB services.
+
+PC and SP applications can also be created.
+It can be produced inexpensively and quickly. We are also good at scraping when it comes to PCs.
+
+Finance is our specialty. We have many achievements.
+In cryptocurrencies, Forex and stocks, we can create and analyze tools at a high level.
+
