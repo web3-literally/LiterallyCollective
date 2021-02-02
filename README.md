@@ -55,7 +55,7 @@ ECOMMERCE | WORDPRESS | HTML5 GAME | MOBILE DEVELOPMENT | CRYPTOCURRENCY
   
 ## 𝓦𝓱𝓪𝓽 𝓦𝓮 𝓒𝓪𝓷 𝓓𝓸
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgYknKaiSdJtVJJ2bEJrStQtyL7-w_fk1aA&usqp=CAU"/> ℬ𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝒶𝓃 ℰ𝒞 𝓈𝒾𝓉𝑒 𝓉𝒽𝒶𝓉 𝒾𝓈 𝓊𝓈𝑒𝒻𝓊𝓁 𝒻𝑜𝓇 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgYknKaiSdJtVJJ2bEJrStQtyL7-w_fk1aA&usqp=CAU" width="30"/> ℬ𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝒶𝓃 ℰ𝒞 𝓈𝒾𝓉𝑒 𝓉𝒽𝒶𝓉 𝒾𝓈 𝓊𝓈𝑒𝒻𝓊𝓁 𝒻𝑜𝓇 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈
 It is possible to create an EC site and its application. Compatible with each platform.
 
 ### 𝒲ℰℬ 𝓅𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃 𝒾𝓈 𝓈𝓅𝑒𝑒𝒹𝓎
