@@ -77,3 +77,14 @@ ECOMMERCE | WORDPRESS | HTML5 GAME | MOBILE DEVELOPMENT | CRYPTOCURRENCY
 𝘐𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘪𝘦𝘴, 𝘍𝘰𝘳𝘦𝘹 𝘢𝘯𝘥 𝘴𝘵𝘰𝘤𝘬𝘴, 𝘸𝘦 𝘤𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯𝘥 𝘢𝘯𝘢𝘭𝘺𝘻𝘦 𝘵𝘰𝘰𝘭𝘴 𝘢𝘵 𝘢 𝘩𝘪𝘨𝘩 𝘭𝘦𝘷𝘦𝘭.
 
 </div>
+
+## 𝓣𝓱𝓲𝓼 𝓦𝓮𝓮𝓴 𝓘 𝓢𝓹𝓮𝓷𝓽 𝓜𝔂 𝓣𝓲𝓶𝓮 𝓞𝓷:
+<!--START_SECTION:waka-->
+```text
+C++          12 hrs 28 mins  █████████████████████░░░░   83.49 % 
+HTML         1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+JavaScript   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+```
+<!--END_SECTION:waka-->
