@@ -12,8 +12,4 @@
 
 ECOMMERCE | WORDPRESS | HTML5 GAME | MOBILE DEVELOPMENT | CRYPTOCURRENCY
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/restaurant-food-370x370.jpg" width="100%"> |
-<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/rings-site-370x370.jpg" width="100%">|
-<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/mahjong-370x370.jpg" width="100%"> |
-<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Esport-300x300.jpg" width="100%">|
-<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Main_News@2x-370x370.jpg" width="100%">
+<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/restaurant-food-370x370.jpg" width="100%"> | <img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/rings-site-370x370.jpg" width="100%">|<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/mahjong-370x370.jpg" width="100%"> |<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Esport-300x300.jpg" width="100%">|<img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Main_News@2x-370x370.jpg" width="100%">
