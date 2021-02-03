@@ -1,4 +1,4 @@
-<h1 align="center" > 𝐖𝐞 𝐂𝐫𝐞𝐚𝐭𝐞 𝐋𝐢𝐭𝐞𝐫𝐚𝐥𝐥𝐲
+<h1 align="center" > <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://literally.co.jp/wp-content/uploads/2020/02/Literally%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-3-e1597867262519.png" alt="Literally Logo" />
  <br/>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://findwrk.app/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -6,16 +6,6 @@
 <a href="https://discord.gg/VcdxxRA7DR"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 </h1> <br>
-
-<h1 align="center">
-  <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://literally.co.jp/wp-content/uploads/2020/02/Literally%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-3-e1597867262519.png" alt="Literally Logo" />
-  <br/>
-  
-  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5b677e607def4466b8084eb76be4f0d7)](https://app.codacy.com/app/supunlakmal/thismypc?utm_source=github.com&utm_medium=referral&utm_content=supunlakmal/thismypc&utm_campaign=Badge_Grade_Dashboard)
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/supunlakmal/thismypc/graphs/commit-activity) [![Website thismypc.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://thismypc.com/) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/supunlakmal/thismypc/blob/master/LICENSE)
-[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/Thismypc/community)
-
-</h1>
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
